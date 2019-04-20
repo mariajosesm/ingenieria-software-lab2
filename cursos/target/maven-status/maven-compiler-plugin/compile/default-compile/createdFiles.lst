@@ -1,0 +1,9 @@
+umg/antigua/is/cursos/cursos/CursosApplication.class
+umg/antigua/is/cursos/cursos/dao/RepositorioCurso.class
+umg/antigua/is/cursos/cursos/model/Curso.class
+umg/antigua/is/cursos/cursos/dao/RepositorioCatedraticos.class
+umg/antigua/is/cursos/cursos/services/servicioCatedraticos.class
+umg/antigua/is/cursos/cursos/model/Catedraticos.class
+umg/antigua/is/cursos/cursos/controller/CursoController.class
+umg/antigua/is/cursos/cursos/services/servicioCurso.class
+umg/antigua/is/cursos/cursos/controller/CatedraticosController.class
