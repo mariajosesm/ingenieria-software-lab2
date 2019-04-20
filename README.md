@@ -1,7 +1,11 @@
 # ingenieria-software-lab2
-      Java SpringBoot
-      Spring Initializr
-      Servicios RESTful
+  Java SpringBoot
+  
+  
+  Spring Initializr
+  
+  
+  Servicios RESTful
       
 # Dockerfiles
       FROM openjdk:8-jre-alpine
