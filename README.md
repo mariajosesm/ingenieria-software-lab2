@@ -31,4 +31,4 @@
       http://localhost:9009/catedratico/buscarTodos
       http://localhost:9009/catedratico/registrar
       
-*Maria Jose Morales 1290-15-13436*
+*Maria Jose Sazo 1290-15-13436*
